@@ -1,4 +1,4 @@
-So basically, MINEBUILDER is a clone of minecraft fully written in HTML and JavaScript 
+So basically, MINEBUILDER is a clone of minecraft fully written in HTML
 The latest version so far is beta 1.4 
 BTW, there are few missing features such as multiplayer, survival mode and different diificultys
 but it runs at 60 fps on low end machines and theres a handfull of working features such as flying 
