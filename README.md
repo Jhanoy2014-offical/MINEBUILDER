@@ -7,12 +7,19 @@ You dont need a mouse to play but it is recommended. Instead of mouse you use ar
 Controls
 
 WASD = move
+
 Arrow key/ mouse = look around
+
 Space = jump
+
 Double tap space = fly
+
 I = inventory
+
 1 to 10 = change inventory slots
+
 Left click = Destroy block
+
 Right click = place block
 
 Enjoy :)
