@@ -8,7 +8,7 @@ Controls
 
 WASD = move
 
-Arrow key/ mouse = look around
+Arrow keys/ mouse = look around
 
 Space = jump
 
