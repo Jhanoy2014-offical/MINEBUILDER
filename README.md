@@ -18,6 +18,8 @@ I = inventory
 
 1 to 10 = change inventory slots
 
+BTW, its called MINEBUILDER because you can Mine and you can build as this game is not intended to be a adventure game but a game where you can express your creativity and build what ever you want and all the blocks are in your inventory so crafting is not needed.
+
 Left click = Destroy block
 
 Right click = place block
