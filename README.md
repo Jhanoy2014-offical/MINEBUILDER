@@ -25,3 +25,4 @@ Right click = place block
 Enjoy :)
 
 BTW, its called MINEBUILDER because you can Mine and you can build as this game is not intended to be a adventure game but a game where you can express your creativity and build what ever you want and all the blocks are in your inventory so crafting is not needed.
+
