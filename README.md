@@ -14,7 +14,7 @@ Space = jump
 
 Double tap space = fly
 
-I = inventory
+E = inventory
 
 1 to 10 = change inventory slots
 
