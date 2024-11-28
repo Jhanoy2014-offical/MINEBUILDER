@@ -16,6 +16,10 @@ Double tap space = fly
 
 E = inventory
 
+Q = Sprint
+
+Shift = Crouch
+
 1 to 10 = change inventory slots
 
 Left click = Destroy block
