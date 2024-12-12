@@ -1,10 +1,6 @@
 Website= https://minebuilder7.webnode.co.uk
 
-So basically, MINEBUILDER is a clone of infiniminer that is inspired by minecraft classic and infdev
-The latest version so far is 1.0 
-BTW, there are few missing features such as multiplayer, survival mode and different diificultys
-but it runs at 60 fps on low end machines and theres a handfull of working features such as flying, superflat, accurate terrain, trees and caves. 
-You dont need a mouse to play but it is recommended. Instead of mouse you use arrow keys
+MINEBUILDER is a clone of infiniminer that is inspired by minecraft classic and infdev. Theres a handfull of features such as flying, superflat, accurate terrain, trees and caves and even with all that, it still runs at 60 fps on low end machines.
 
 Controls
 
